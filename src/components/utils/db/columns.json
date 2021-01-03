@@ -1,0 +1,81 @@
+[
+    {
+        "title": "Name",
+        "field": "Name",
+        "cellStyle": {
+            "width": "30%",
+            "maxWidth": "30%",
+            "fontSize": 12,
+            "textAlign": "left"
+        },
+        "headerStyle": {
+            "width": "30%",
+            "maxWidth": "30%",
+            "textAlign": "left"
+            }
+    },
+    {
+        "title": "Exposure",
+        "field": "EAD",
+        "type": "numeric",
+        "cellStyle": {
+            "width": 20,
+            "maxWidth": 20,
+            "fontSize": 12,
+            "textAlign": "left"
+        },
+        "headerStyle": {
+            "width": 50,
+            "maxWidth": 50,
+            "textAlign": "left"
+        }
+    },
+    {
+        "title": "Def. Prob.",
+        "field": "PD",
+        "type": "numeric",
+        "cellStyle": {
+            "width": 25,
+            "maxWidth": 25,
+            "fontSize": 12,
+            "textAlign": "left"
+        },
+        "headerStyle": {
+            "width": 20,
+            "maxWidth": 20,
+            "textAlign": "left"
+        }
+    },
+    {
+        "title": "LGD",
+        "field": "LGD",
+        "type": "numeric",
+        "cellStyle": {
+            "width": 20,
+            "maxWidth": 20,
+            "fontSize": 12,
+            "textAlign": "left"
+        },
+        "headerStyle": {
+            "width": 20,
+            "maxWidth": 12,
+            "textAlign": "left"
+        }
+    },
+    {
+        "title": "Corr",
+        "field": "w",
+        "type": "numeric",
+        "cellStyle": {
+            "width": 20,
+            "maxWidth": 20,
+            "fontSize": 12,
+            "textAlign": "left"
+        },
+        "headerStyle": {
+            "width": 20,
+            "maxWidth": 20,
+            "textAlign": "left"
+        }
+    }
+]

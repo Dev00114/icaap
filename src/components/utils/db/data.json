@@ -1,0 +1,73 @@
+[
+    {
+        "Name": "Bank of America",
+        "PD": 0.0101,
+        "LGD": 0.5,
+        "EAD": 34000000,
+        "w": 0.2,
+        "tableData": {
+            "id": 0
+        }
+    },
+    {
+        "Name": "Goldman Sachs",
+        "PD": 0.04946,
+        "LGD": 0.5,
+        "EAD": 24000000,
+        "w": 0.2,
+        "tableData": {
+            "id": 1
+        }
+    },
+    {
+        "Name": "NatWest",
+        "PD": 0.015,
+        "LGD": 0.5,
+        "EAD": 21780000,
+        "w": 0.2,
+        "tableData": {
+            "id": 2
+        }
+    },
+    {
+        "Name": "Virgin Bank",
+        "PD": 0.02,
+        "LGD": 0.5,
+        "EAD": 15097828,
+        "w": 0.2,
+        "tableData": {
+            "id": 3
+        }
+    },
+    {
+        "Name": "Northern Trust",
+        "PD": 0.03,
+        "LGD": 0.5,
+        "EAD": 14923886,
+        "w": 0.2,
+        "tableData": {
+            "id": 4
+        }
+    },
+    {
+        "Name": "Northern Trust",
+        "PD": 0.03,
+        "LGD": 0.5,
+        "EAD": 14923886,
+        "w": 0.2,
+        "tableData": {
+            "id": 4
+        }
+    },
+    {
+        "Name": "Northern Trust",
+        "PD": 0.03,
+        "LGD": 0.5,
+        "EAD": 14923886,
+        "w": 0.2,
+        "tableData": {
+            "id": 4
+        }
+    }
+    
+]
